@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/tiger/Documents/Unreal/OpenWorldRPG/Content/Maps/SlashOpenWorld_HLODLayer_Instanced.uasset",
+				"/Users/tiger/Documents/Unreal/OpenWorldRPG/Content/Maps/SlashOpenWorld_HLODLayer_Merged.uasset",
+				"/Users/tiger/Documents/Unreal/OpenWorldRPG/Content/__ExternalActors__/Maps/SlashOpenWorld/F/50/E32K80QIJKA33SEH12OVJX.uasset",
+				"/Users/tiger/Documents/Unreal/OpenWorldRPG/Content/__ExternalActors__/Maps/SlashOpenWorld/8/TX/T45LQ5NN5LDPVAAXB7AAKA.uasset",
+				"/Users/tiger/Documents/Unreal/OpenWorldRPG/Content/Maps/SlashOpenWorld.umap"
+			]
+		}
+	]
+}
